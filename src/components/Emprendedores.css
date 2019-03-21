@@ -92,13 +92,16 @@ height: 70px;
   display: flex;
 }
 
-.row .col.s6 {
-  width: 50%;
-  margin: 0;
- 
-}
+
 
 .row .col.offset-s4 {
   margin-left: 8%;
   margin-right: 3%;
+}
+
+.row .col.s8 {
+  width: 66.6666666667%;
+  margin-left: 0;
+  left: auto;
+  right: auto;
 }
