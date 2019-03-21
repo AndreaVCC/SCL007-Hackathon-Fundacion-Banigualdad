@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
 import './App.css';
-import Proveedores from './components/Proveedores'
+import Emprendedores from './components/Emprendedores'
 
 class App extends Component {
 
   render() {
     return (
-      <div className="App">
+      <div className ="App">
         
-        <Proveedores/>
+        <Emprendedores/>
 
       </div>
     );
